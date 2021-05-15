@@ -1,9 +1,9 @@
 Source-1-Games
 ==============
 
-This is the README for the Source 1 based games.  Source 1 based games include Team Fortress 2, Left4Dead2, and Counter-Strike: Source.
+This is the README for the Source 1 based games by The Phoenix Project Software.  Source 1 based games include *Half-Life: Zombies Ate My Neighbours 2,* and *Half-Life 2 Anniversary.*
 
-Please use this repository to report bugs and feature requests for Team Fortress 2, Counter-Strike: Source, Left4Dead2, and the Source 1 Engine.
+Please use this repository to report bugs and feature requests for these games. To report bugs for the Source engine, please go to https://github.com/ValveSoftware/Source-1-Games.
 
 Conduct
 -------
