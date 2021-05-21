@@ -1,4 +1,4 @@
-Source-1-Games
+HL1-Games
 ==============
 
 This is the README for the Half-Life 1 based games by The Phoenix Project Software.  Source 1 based games include *Half-Life: Zombies Ate My Neighbours,* and *Lost and Dead Anniversary.*
