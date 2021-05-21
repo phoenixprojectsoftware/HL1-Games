@@ -1,7 +1,7 @@
 HL1-Games
 ==============
 
-This is the README for the Half-Life 1 based games by The Phoenix Project Software.  Source 1 based games include *Half-Life: Zombies Ate My Neighbours,* and *Lost and Dead Anniversary.*
+This is the README for the Half-Life 1 based games by The Phoenix Project Software.  HL1 based games include *Half-Life: Zombies Ate My Neighbours [Single/Multiplayer],* and *Lost and Dead Anniversary.*
 
 Please use this repository to report bugs and feature requests for these games. To report bugs for games such as *Counter-Strike, Opposing Force* or *Half-Life,* please go to https://github.com/ValveSoftware/halflife.
 
