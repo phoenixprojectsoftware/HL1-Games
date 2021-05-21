@@ -1,9 +1,9 @@
 Source-1-Games
 ==============
 
-This is the README for the Source 1 based games by The Phoenix Project Software.  Source 1 based games include *Half-Life: Zombies Ate My Neighbours 2,* and *Half-Life 2 Anniversary.*
+This is the README for the Half-Life 1 based games by The Phoenix Project Software.  Source 1 based games include *Half-Life: Zombies Ate My Neighbours,* and *Lost and Dead Anniversary.*
 
-Please use this repository to report bugs and feature requests for these games. To report bugs for the Source engine, please go to https://github.com/ValveSoftware/Source-1-Games.
+Please use this repository to report bugs and feature requests for these games. To report bugs for games such as *Counter-Strike, Opposing Force* or *Half-Life,* please go to https://github.com/ValveSoftware/halflife.
 
 Conduct
 -------
@@ -20,11 +20,11 @@ Remember: Just because the issue you reported was reported here does not mean th
 Reporting Issues
 ----------------
 
-If you encounter a bug while using Source 1 games, first search the [issue list](https://github.com/ValveSoftware/Source-1-Games/issues) to see if it has already been reported. Include closed issues in your search.
+If you encounter a bug while using Half-Life1 games, first search the [issue list](https://github.com/phoenixprojectsoftware/issues) to see if it has already been reported. Include closed issues in your search.
 
 If it has not been reported, create a new issue with at least the following information:
 
-- which game you're reporting the bug on (TF2, CS:S, all)
+- which game you're reporting the bug on (ZAMNHL, ZAMNHLMP, LADA, all)
 - a short, descriptive title;
 - a detailed description of the issue, including any output from the command line;
 - steps for reproducing the issue; and
@@ -48,7 +48,7 @@ Paste this information into your report, preferably in a code block or a [gist](
 Feature Requests
 -------------------
 
-If you are asking for a new feature or enhancement for a game, first search the [issue list](https://github.com/ValveSoftware/Source-1-Games/issues) to see if it has already been asked for. Include closed issues in your search.
+If you are asking for a new feature or enhancement for a game, first search the [issue list](https://github.com/phoenixprojectsoftware/HL1-Games/issues) to see if it has already been asked for. Include closed issues in your search.
 
 If it has been asked for, go ahead and put your 2 cents in for it in the existing entry.
 
